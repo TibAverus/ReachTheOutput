@@ -1,0 +1,1 @@
+audio_emitter_position(SoundEmitter, x, y, 0);

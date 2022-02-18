@@ -1,0 +1,1 @@
+alarm[0] = room_speed * irandom_range(99, 199);
